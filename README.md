@@ -1,6 +1,6 @@
 This is an Impact Measurement Dashboard I created in Google Looker Studio using mock nonprofit data. The goal was to measure donation trends, program performance, and cost efficiency across regions and time, helping stakeholders assess overall impact.”
 
-✅ Highlight:
+Highlight:
 
 Purpose: Track KPIs such as Success Rate, Impact Ratio, and Cost Efficiency
 
@@ -10,7 +10,7 @@ Automation Goal: Zero manual refresh for weekly trend reports
 
 🧩 2. Data Source & Modelling (Technical Depth)
 
-“The dataset was stored in Google Sheets with around 100 records covering Program, Cost, Donations, Beneficiaries, Donors, Date, Payment Method, Country, and City. I modeled the data directly in Sheets before connecting it to Looker Studio.”
+“The dataset was stored in Google Sheets  covering Program, Cost, Donations, Beneficiaries, Donors, Date, Payment Method, Country, and City. I modeled the data directly in Sheets before connecting it to Looker Studio.”
 
 Technical notes to mention:
 
