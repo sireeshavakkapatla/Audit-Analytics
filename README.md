@@ -1,6 +1,6 @@
 This is an Impact Measurement Dashboard I created in Google Looker Studio using mock nonprofit data. The goal was to measure donation trends, program performance, and cost efficiency across regions and time, helping stakeholders assess overall impact.”
 
-$Highlight$:
+###Highlight:
 
 Purpose: Track KPIs such as Success Rate, Impact Ratio, and Cost Efficiency
 
